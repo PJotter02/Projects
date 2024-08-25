@@ -44,9 +44,3 @@ This repository is intended for potential employers and colleagues who are inter
 
 To explore each project, navigate to the respective folder and follow the instructions provided in the project's README.md file. Each project folder contains the necessary scripts, tools, and documentation.
 
-## Setup and Installation
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/cybersecurity-projects.git
-   cd cybersecurity-projects
