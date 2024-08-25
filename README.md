@@ -1,6 +1,6 @@
 # Cybersecurity Projects Repository
 
-Welcome to my Cybersecurity Projects Repository! This repository showcases a variety of projects that I have worked on, demonstrating my skills and experience in the field of cybersecurity. These projects are designed to highlight my knowledge in areas such as network security, cryptography, vulnerability assessment, and incident response.
+Welcome to my Cybersecurity Projects Repository! This repository showcases a variety of projects that I have worked on, demonstrating my skills and experience in the field of cybersecurity. These projects are designed to highlight my knowledge in areas such as network security
 
 ## Table of Contents
 
@@ -10,8 +10,6 @@ Welcome to my Cybersecurity Projects Repository! This repository showcases a var
    - [Project 2: Vulnerability Assessment Tool](#project-2-vulnerability-assessment-tool)
    - [Project 3: Incident Response Plan](#project-3-incident-response-plan)
 3. [How to Use](#how-to-use)
-4. [Setup and Installation](#setup-and-installation)
-5. [Contact](#contact)
 
 ## About
 
