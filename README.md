@@ -6,8 +6,8 @@ Welcome to my Cybersecurity Projects Repository! This repository showcases a var
 
 1. [About](#about)
 2. [Projects Overview](#projects-overview)
-   - [Project 1: Network Security Monitoring](#project-1-network-security-monitoring)
-   - [Project 2: Vulnerability Assessment Tool](#project-2-vulnerability-assessment-tool)
+   - [Project 1: SIEM with Microsoft Azure](#project-1-network-security-monitoring)
+   - [Project 2: Creating a Honeypot with Raspberry Pi 4](#project-2-vulnerability-assessment-tool)
    - [Project 3: Incident Response Plan](#project-3-incident-response-plan)
 3. [How to Use](#how-to-use)
 
