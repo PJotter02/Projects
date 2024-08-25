@@ -17,12 +17,12 @@ This repository is intended for potential employers and colleagues who are inter
 
 ## Projects Overview
 
-### Project 1: Network Security Monitoring
+### Project 1: SIEM w/ Microsoft Azure
 
-**Description**: This project involves setting up a network security monitoring system using tools such as Wireshark, Snort, and Suricata. The goal is to detect and analyze malicious traffic in a simulated network environment.
+**Description**: This project involves setting up a SIEM on Microsoft Azure using Sentinel. RDP port 3389 was left open to simulate real attacks.
 
-- **Technologies Used**: Wireshark, Snort, Suricata, Python
-- **Key Skills Demonstrated**: Network traffic analysis, IDS/IPS configuration, packet sniffing
+- **Technologies Used**: Microsoft Azure & Sentinel
+- **Key Skills Demonstrated**: Network traffic analysis, 
 
 ### Project 2: Vulnerability Assessment Tool
 
