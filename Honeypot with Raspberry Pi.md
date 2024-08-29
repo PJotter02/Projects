@@ -4,10 +4,10 @@ Welcome to my tutorial for setting up a honeypot using a Raspberry Pi 4
 ## What You Will Need
 - Raspberry Pi 4
 - MicroSD
-- MicroSD adapter to be able to plug MicroSD into computer
+- MicroSD adapter to be able to plug MicroSD into the computer
 
 ## Prepping Your Raspberry Pi
-1) Login to your computer and navigate to https://www.raspberrypi.com/
+1) Log in to your computer and navigate to https://www.raspberrypi.com/
 2) On top of the webpage click on "software"
 3) Download "Raspberry Pi Imager"
 4) Open "Raspberry Pi Imager" and plug your MicroSD in
@@ -17,25 +17,25 @@ Welcome to my tutorial for setting up a honeypot using a Raspberry Pi 4
 8) Then, select "Choose Storage"
 9) Select your MicroSD
 10) Now press, CTRL + SHIFT + X, to open the advanced menu option
-11) Set hostname to "raspberrypi"
+11) Set the hostname to "raspberrypi"
 12) If you have the option to configure your username make it "pi"
 13) Ensure "Enable SSH" is checked
 14) You can make the password for SSH anything you want
 15) If you are using Wi-Fi, go ahead and configure
 16) Select "save"
-17) Select "write"
-18) Once the OS has been loaded on to your MicroSD, you can eject
+17) Select "Write"
+18) Once the OS has been loaded onto your MicroSD, you can eject
 
 ## Update Raspberry Pi
 1) Plug in your MicroSD into your Raspberry Pi
 2) Boot up your Raspberry Pi
-3) On your desktop (not the raspberry Pi), open Windows Powershell
-   - This can be done by searching Powershell in your windows search bar
+3) On your desktop (not the Raspberry Pi), open Windows Powershell
+   - This can be done by searching Powershell in your Windows search bar
 4) Run this command "ssh pi@raspberrypi"
-5) Then enter in the password you set up while configuring your Raspberry Pi OS
+5) Then enter the password you set up while configuring your Raspberry Pi OS
    - If done correctly, you will see "pi@raspberrypi:~"
 6) Run this command "sudo apt update && sudo apt-get -uy dist-upgrade
-7) Once download is complete, reboot your Raspberry Pi using this command "sudo reboot"
+7) Once the download is complete, reboot your Raspberry Pi using the command "sudo reboot"
 8) SSH back into your Raspberry Pi after a few minutes
    - Repeat steps 4 and 5
 
@@ -60,8 +60,8 @@ Welcome to my tutorial for setting up a honeypot using a Raspberry Pi 4
 17) On "IPs / Ports to disable Honeypot For" leave on default
 18) Select "OK"
 19) In a few moments a page with the header "Creating SSL Certificate", leave as default and select "OK"
-20) In a few moments you'll see a page with the header "Signing Certificate" select "yes"
-21) Now reboot your raspberry pi using the command "sudo reboot"
+20) In a few moments you'll see a page with the header "Signing Certificate" select "Yes"
+21) Now reboot your Raspberry Pi using the command "sudo reboot"
 
 ## Using Putty to SSH Using the Admin Access
 ### These are additional steps if you want to know your Raspberry Pi IP address
@@ -70,7 +70,12 @@ Welcome to my tutorial for setting up a honeypot using a Raspberry Pi 4
 3) ![image](https://github.com/user-attachments/assets/27f1e44a-62b3-4f70-ab56-5b6137ed1909)
 4) Select "open"
 5) If a warning pops up select "yes"
-6) You will see a new window has openned with the prompt "login as:", enter "pi" then hit "enter"
-7) Enter in the password you set to SSH into the Raspberry Pi
+6) You will see a new window has opened with the prompt "login as:", enter "pi" then hit "enter"
+7) Enter the password you set to SSH into the Raspberry Pi
+
+##How to Check the Report
+1) Log in to your DShield account at https://isc.sans.edu/honeypot.html
+2) In the upper left, select "My Account" and then select "My Report"
+* It does take 15-30 minutes for the report to update
 
     
