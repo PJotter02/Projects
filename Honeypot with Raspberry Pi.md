@@ -75,7 +75,7 @@ Welcome to my tutorial for setting up a honeypot using a Raspberry Pi 4
 
 ##How to Check the Report
 1) Log in to your DShield account at https://isc.sans.edu/honeypot.html
-2) In the upper left, select "My Account" and then select "My Report"
+2) In the upper right, select "My Account" and then select "Web HoneyPot Report"
 * It does take 15-30 minutes for the report to update
 
     
