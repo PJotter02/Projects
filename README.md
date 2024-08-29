@@ -24,12 +24,12 @@ This repository is intended for potential employers and colleagues who are inter
 - **Technologies Used**: Microsoft Azure & Sentinel
 - **Key Skills Demonstrated**: Network traffic analysis, 
 
-### Project 2: Vulnerability Assessment Tool
+### Project 2: Honeypot with Raspberry Pi 4
 
-**Description**: Developed a custom vulnerability assessment tool that scans a network for common vulnerabilities. This tool automates the process of identifying weak points within a network and provides a report with remediation suggestions.
+**Description**: Developed a honeypot in my home network using a Raspberry Pi 4
 
-- **Technologies Used**: Python, Nmap, OpenVAS
-- **Key Skills Demonstrated**: Scripting, network scanning, vulnerability management
+- **Technologies Used**: Linux, Bash Scripting, DShield,  
+- **Key Skills Demonstrated**: Threat Intelligence, Security Awareness
 
 ### Project 3: Incident Response Plan
 
