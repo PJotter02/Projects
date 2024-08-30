@@ -8,7 +8,6 @@ Welcome to my Cybersecurity Projects Repository! This repository showcases a var
 2. [Projects Overview](#projects-overview)
    - [Project 1: SIEM with Microsoft Azure](#project-1-network-security-monitoring)
    - [Project 2: Creating a Honeypot with Raspberry Pi 4](#project-2-vulnerability-assessment-tool)
-   - [Project 3: Incident Response Plan](#project-3-incident-response-plan)
 3. [How to Use](#how-to-use)
 
 ## About
@@ -31,12 +30,6 @@ This repository is intended for potential employers and colleagues who are inter
 - **Technologies Used**: Linux, Bash Scripting, DShield,  
 - **Key Skills Demonstrated**: Threat Intelligence, Security Awareness
 
-### Project 3: Incident Response Plan
-
-**Description**: Created a comprehensive incident response plan for a simulated corporate environment. The plan includes procedures for detecting, analyzing, and responding to security incidents.
-
-- **Technologies Used**: Documentation tools (Markdown, LaTeX)
-- **Key Skills Demonstrated**: Incident response planning, risk assessment, policy writing
 
 ## How to Use
 
