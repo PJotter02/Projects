@@ -31,7 +31,4 @@ This repository is intended for potential employers and colleagues who are inter
 - **Key Skills Demonstrated**: Threat Intelligence, Security Awareness
 
 
-## How to Use
-
-To explore each project, navigate to the respective folder and follow the instructions provided in the project's README.md file. Each project folder contains the necessary scripts, tools, and documentation.
 
